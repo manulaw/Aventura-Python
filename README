@@ -1,2 +1,8 @@
 This is a very basic aventura client python code.
 This consists of Listener, Controller and Sender
+
+Change the config.py settings as required
+(SERVICE_URI is the aventura uri for example if http://localhost:8008/simulator is the uri SERVICE_URI should be 'simulator')
+
+To run type:
+	python listener.py
