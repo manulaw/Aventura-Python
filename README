@@ -6,3 +6,6 @@ Change the config.py settings as required
 
 To run type:
 	python listener.py
+
+To run in daemon mode:
+  nohup python listener.py &
